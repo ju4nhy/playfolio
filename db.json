@@ -1,0 +1,334 @@
+{
+  "games": [
+    {
+      "id": "7f84",
+      "name": "Goldeneye 007",
+      "releaseYear": 1997,
+      "platform": "Nintendo 64",
+      "developers": [
+        "Rare"
+      ],
+      "publisher": "Nintendo",
+      "mode": [
+        "single-player",
+        "multiplayer"
+      ],
+      "genres": [
+        "fps",
+        "action"
+      ],
+      "rating": 95,
+      "favorite": false
+    },
+    {
+      "id": "a674",
+      "name": "Resident Evil",
+      "releaseYear": 1996,
+      "platform": "Sony Playstation",
+      "developers": [
+        "Capcom"
+      ],
+      "publisher": "Capcom",
+      "mode": [
+        "single-player"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "survival",
+        "horror"
+      ],
+      "rating": 95,
+      "favorite": true
+    },
+    {
+      "id": "29bf",
+      "name": "Resident Evil 2",
+      "releaseYear": 1998,
+      "platform": "Sony Playstation",
+      "developers": [
+        "Capcom"
+      ],
+      "publisher": "Capcom",
+      "mode": [
+        "single-player"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "survival",
+        "horror"
+      ],
+      "rating": 95,
+      "favorite": true
+    },
+    {
+      "id": "f324",
+      "name": "Resident Evil 3: Nemesis",
+      "releaseYear": 1999,
+      "platform": "Sony Playstation",
+      "developers": [
+        "Capcom"
+      ],
+      "publisher": "Capcom",
+      "mode": [
+        "single-player"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "survival",
+        "horror"
+      ],
+      "rating": 90,
+      "favorite": false
+    },
+    {
+      "id": "4ea0",
+      "name": "Resident Evil: Code Veronica X",
+      "releaseYear": 2000,
+      "platform": "Sony Playstation 2",
+      "developers": [
+        "Capcom"
+      ],
+      "publisher": "Capcom",
+      "mode": [
+        "single-player"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "survival",
+        "horror"
+      ],
+      "rating": 85,
+      "favorite": false
+    },
+    {
+      "id": "9048",
+      "name": "Resident Evil 4",
+      "releaseYear": 2005,
+      "platform": "Sony Playstation 2",
+      "developers": [
+        "Capcom"
+      ],
+      "publisher": "Capcom",
+      "mode": [
+        "single-player"
+      ],
+      "genres": [
+        "third-person shooter",
+        "action",
+        "adventure",
+        "survival",
+        "horror"
+      ],
+      "rating": 90,
+      "favorite": false
+    },
+    {
+      "id": "6a54",
+      "name": "Resident Evil 5",
+      "releaseYear": 2009,
+      "platform": "Sony Playstation 4",
+      "developers": [
+        "Capcom"
+      ],
+      "publisher": "Capcom",
+      "mode": [
+        "single-player"
+      ],
+      "genres": [
+        "third-person shooter",
+        "action",
+        "adventure",
+        "survival",
+        "horror"
+      ],
+      "rating": 80,
+      "favorite": false
+    },
+    {
+      "id": "e3e0",
+      "name": "Resident Evil 6",
+      "releaseYear": 2012,
+      "platform": "Sony Playstation 4",
+      "developers": [
+        "Capcom"
+      ],
+      "publisher": "Capcom",
+      "mode": [
+        "single-player"
+      ],
+      "genres": [
+        "third-person shooter",
+        "action",
+        "adventure",
+        "survival",
+        "horror"
+      ],
+      "rating": 80,
+      "favorite": false
+    },
+    {
+      "id": "7368",
+      "name": "Resident Evil 7: Biohazard",
+      "releaseYear": 2017,
+      "platform": "Sony Playstation 4",
+      "developers": [
+        "Capcom"
+      ],
+      "publisher": "Capcom",
+      "mode": [
+        "single-player"
+      ],
+      "genres": [
+        "fps",
+        "action",
+        "adventure",
+        "survival",
+        "horror"
+      ],
+      "rating": 95,
+      "favorite": true
+    },
+    {
+      "id": "c5aa",
+      "name": "Resident Evil 8: Village",
+      "releaseYear": 2021,
+      "platform": "Sony Playstation 4",
+      "developers": [
+        "Capcom"
+      ],
+      "publisher": "Capcom",
+      "mode": [
+        "single-player"
+      ],
+      "genres": [
+        "fps",
+        "action",
+        "adventure",
+        "survival",
+        "horror"
+      ],
+      "rating": 95,
+      "favorite": false
+    },
+    {
+      "id": "31ae",
+      "name": "Resident Evil HD Remastered",
+      "releaseYear": 2015,
+      "platform": "Sony Playstation 3",
+      "developers": "Capcom",
+      "publisher": "Capcom",
+      "mode": [
+        "single-player"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "survival",
+        "horror"
+      ],
+      "rating": 90,
+      "favorite": false
+    },
+    {
+      "id": "bf70",
+      "name": "Resident Evil 0 Remastered",
+      "releaseYear": 2016,
+      "platform": "Sony Playstation 3",
+      "developers": "Capcom",
+      "publisher": "Capcom",
+      "mode": [
+        "single-player"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "survival",
+        "horror"
+      ],
+      "rating": 90,
+      "favorite": false
+    },
+    {
+      "id": "7790",
+      "name": "Resident Evil 2 Remake",
+      "releaseYear": 2019,
+      "platform": "Sony Playstation 4",
+      "developers": "Capcom",
+      "publisher": "Capcom",
+      "mode": [
+        "single-player"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "survival",
+        "horror"
+      ],
+      "rating": 91,
+      "favorite": false
+    },
+    {
+      "id": "b32f",
+      "name": "Resident Evil 3 Remake",
+      "releaseYear": 2020,
+      "platform": "Sony Playstation 4",
+      "developers": "Capcom",
+      "publisher": "Capcom",
+      "mode": [
+        "single-player"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "survival",
+        "horror"
+      ],
+      "rating": 80,
+      "favorite": true
+    },
+    {
+      "name": "Resident Evil 4 Remake",
+      "releaseYear": 2023,
+      "platform": "Sony Playstation 4",
+      "developers": "Capcom",
+      "publisher": "Capcom",
+      "mode": [
+        "single-player"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "survival",
+        "horror"
+      ],
+      "rating": "",
+      "favorite": false,
+      "top10": false,
+      "id": "fe97"
+    },
+    {
+      "id": "b6b7",
+      "name": "Metal Gear Solid",
+      "releaseYear": 1998,
+      "platform": "Sony Playstation",
+      "developers": [
+        "Konami Japan"
+      ],
+      "publisher": "Konami",
+      "mode": [
+        "single-player"
+      ],
+      "genres": [
+        "stealth",
+        "action",
+        "adventure"
+      ],
+      "rating": 95,
+      "favorite": true
+    }
+  ]
+}
